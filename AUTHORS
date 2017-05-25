@@ -1,10 +1,9 @@
-# [Your project name] Authors
+# CTSI Open source python project Authors
 
-Write a short preamble about your project. 
+This is a convenience repo that will help improve consistency across
+our open source projects. We want to encourage open source methodology
+and allow our projects to be completely transparent. This will also
+set up a basic python project with a simple unit test to help get a
+project up and going quickly.
 
-Iam Inventor (inventor@inventor.com) Inventor
-Chris B. Contributor (chris@contributor.com)
-Deven A. Developer (dev@developer.com)
-
-Include a statement thanking the contributors and 
-others that made the project possible.
+Matthew J. McConnell (DevMattM@gmail.com) Inventor
